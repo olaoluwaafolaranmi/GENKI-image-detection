@@ -1,2 +1,4 @@
 # Data
 pickle_data*
+__pycache__
+*data*
