@@ -1,0 +1,2242 @@
+[
+   {
+      "smile": 1,
+      "yaw": 0.169297,
+      "pitch": -0.066323,
+      "roll": 0.230717,
+      "image": "data\\files\\file1312.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.047124,
+      "pitch": -0.005236,
+      "roll": 0.260803,
+      "image": "data\\files\\file0677.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.314159,
+      "pitch": -0.02618,
+      "roll": 0.057408,
+      "image": "data\\files\\file1844.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.316736,
+      "pitch": 0.094248,
+      "roll": -0.136139,
+      "image": "data\\files\\file2975.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.246091,
+      "pitch": 0.073304,
+      "roll": -0.089647,
+      "image": "data\\files\\file2784.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.038226,
+      "pitch": 0.057596,
+      "roll": 0.014597,
+      "image": "data\\files\\file0869.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.174502,
+      "pitch": -0.054105,
+      "roll": 0.203425,
+      "image": "data\\files\\file0549.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.16057,
+      "pitch": 0.443316,
+      "roll": 0.02396,
+      "image": "data\\files\\file2214.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.021453,
+      "pitch": 0.008727,
+      "roll": -0.070919,
+      "image": "data\\files\\file0973.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.031416,
+      "pitch": 0.129154,
+      "roll": -0.004082,
+      "image": "data\\files\\file1640.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.543447,
+      "pitch": -0.090379,
+      "roll": 0.145462,
+      "image": "data\\files\\file2606.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.202458,
+      "pitch": -0.013963,
+      "roll": 0.084414,
+      "image": "data\\files\\file3845.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.443314,
+      "pitch": -0.359538,
+      "roll": 0.016679,
+      "image": "data\\files\\file1952.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.002684,
+      "pitch": 0.216421,
+      "roll": 0.06677,
+      "image": "data\\files\\file2127.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.021315,
+      "pitch": 0.10821,
+      "roll": 0.049141,
+      "image": "data\\files\\file2844.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.225147,
+      "pitch": -0.079366,
+      "roll": 0.101076,
+      "image": "data\\files\\file0386.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.132073,
+      "pitch": 0.059341,
+      "roll": 0.196092,
+      "image": "data\\files\\file2584.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.251088,
+      "pitch": -0.038397,
+      "roll": -0.240696,
+      "image": "data\\files\\file1610.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.097738,
+      "pitch": 0.010472,
+      "roll": -0.011961,
+      "image": "data\\files\\file1532.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.032288,
+      "pitch": -0.000873,
+      "roll": -0.254697,
+      "image": "data\\files\\file1294.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.040597,
+      "pitch": 0.077691,
+      "roll": -0.18792,
+      "image": "data\\files\\file2212.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.081862,
+      "pitch": 0.07762,
+      "roll": 0.049183,
+      "image": "data\\files\\file1066.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.010472,
+      "pitch": 0.029671,
+      "roll": 0.22251,
+      "image": "data\\files\\file0622.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.319787,
+      "pitch": -0.120428,
+      "roll": -0.079368,
+      "image": "data\\files\\file2433.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.290729,
+      "pitch": 0.049742,
+      "roll": 0.03204,
+      "image": "data\\files\\file0956.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.164909,
+      "pitch": 0.099484,
+      "roll": 0.045195,
+      "image": "data\\files\\file3042.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.075049,
+      "pitch": -0.054105,
+      "roll": 0.021273,
+      "image": "data\\files\\file1267.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.07385,
+      "pitch": 0.18048,
+      "roll": 0.030598,
+      "image": "data\\files\\file1701.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.07898,
+      "pitch": 0.115192,
+      "roll": 0.025961,
+      "image": "data\\files\\file3314.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.139626,
+      "pitch": -0.019199,
+      "roll": -0.120069,
+      "image": "data\\files\\file1903.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.271192,
+      "pitch": 0.087266,
+      "roll": -0.058453,
+      "image": "data\\files\\file3195.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.81245,
+      "pitch": 0.120428,
+      "roll": -0.139226,
+      "image": "data\\files\\file0670.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.047116,
+      "pitch": 0.659734,
+      "roll": -0.043451,
+      "image": "data\\files\\file2764.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.169297,
+      "pitch": 0.027925,
+      "roll": 0.042831,
+      "image": "data\\files\\file0799.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.0503,
+      "pitch": 0.024317,
+      "roll": 0.125755,
+      "image": "data\\files\\file3212.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.39619,
+      "pitch": -0.022689,
+      "roll": -0.253424,
+      "image": "data\\files\\file1570.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.104908,
+      "pitch": 0.026463,
+      "roll": -0.338597,
+      "image": "data\\files\\file2610.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.014144,
+      "pitch": 0.197222,
+      "roll": 0.196318,
+      "image": "data\\files\\file2926.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.00451,
+      "pitch": 0.037525,
+      "roll": -0.012698,
+      "image": "data\\files\\file3189.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.176278,
+      "pitch": -0.047124,
+      "roll": 0.175111,
+      "image": "data\\files\\file3661.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.60912,
+      "pitch": 0.165266,
+      "roll": -0.119957,
+      "image": "data\\files\\file2196.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.066687,
+      "pitch": -0.019199,
+      "roll": -0.014527,
+      "image": "data\\files\\file1264.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.116937,
+      "pitch": 0.068068,
+      "roll": -0.145628,
+      "image": "data\\files\\file2264.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.10472,
+      "pitch": 0.012217,
+      "roll": -0.178985,
+      "image": "data\\files\\file1012.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.469156,
+      "pitch": -0.05236,
+      "roll": 0.12915,
+      "image": "data\\files\\file0503.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.101089,
+      "pitch": 0.221006,
+      "roll": 0.005797,
+      "image": "data\\files\\file2906.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.021816,
+      "pitch": 0.05585,
+      "roll": 0.207706,
+      "image": "data\\files\\file0944.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.005627,
+      "pitch": 0.294183,
+      "roll": 0.0,
+      "image": "data\\files\\file1721.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.44269,
+      "pitch": 0.336849,
+      "roll": -0.209032,
+      "image": "data\\files\\file3256.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.384468,
+      "pitch": 0.286234,
+      "roll": 0.046874,
+      "image": "data\\files\\file3257.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.158825,
+      "pitch": 0.010472,
+      "roll": -0.056418,
+      "image": "data\\files\\file0466.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.066474,
+      "pitch": 0.027925,
+      "roll": 0.02872,
+      "image": "data\\files\\file2403.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.124339,
+      "pitch": 0.053233,
+      "roll": -0.00641,
+      "image": "data\\files\\file0350.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.080285,
+      "pitch": 0.142073,
+      "roll": 0.016232,
+      "image": "data\\files\\file1011.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.18326,
+      "pitch": 0.16057,
+      "roll": -0.288167,
+      "image": "data\\files\\file2472.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.314198,
+      "pitch": -0.191929,
+      "roll": -0.073475,
+      "image": "data\\files\\file3368.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.170103,
+      "pitch": 0.141372,
+      "roll": -0.006579,
+      "image": "data\\files\\file2466.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.054608,
+      "pitch": 0.080285,
+      "roll": 0.037663,
+      "image": "data\\files\\file3856.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.053263,
+      "pitch": 0.057596,
+      "roll": -0.249322,
+      "image": "data\\files\\file2295.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.155334,
+      "pitch": 0.005236,
+      "roll": 0.117671,
+      "image": "data\\files\\file1859.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.009568,
+      "pitch": 0.026897,
+      "roll": 0.155322,
+      "image": "data\\files\\file2095.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.054114,
+      "pitch": -0.019199,
+      "roll": -0.043294,
+      "image": "data\\files\\file0593.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.132316,
+      "pitch": 0.017453,
+      "roll": -0.166025,
+      "image": "data\\files\\file2997.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.015229,
+      "pitch": 0.134025,
+      "roll": 0.008264,
+      "image": "data\\files\\file1803.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.202458,
+      "pitch": -0.008727,
+      "roll": -0.141897,
+      "image": "data\\files\\file0991.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.39619,
+      "pitch": 0.054105,
+      "roll": 0.078519,
+      "image": "data\\files\\file3996.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.095759,
+      "pitch": 0.022689,
+      "roll": 0.126832,
+      "image": "data\\files\\file3552.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.118841,
+      "pitch": -0.017453,
+      "roll": 0.076772,
+      "image": "data\\files\\file1724.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.116937,
+      "pitch": -0.096767,
+      "roll": 0.044943,
+      "image": "data\\files\\file1867.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.216901,
+      "pitch": 0.083776,
+      "roll": -0.068006,
+      "image": "data\\files\\file3302.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.036652,
+      "pitch": 0.031416,
+      "roll": -0.026839,
+      "image": "data\\files\\file0331.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.225147,
+      "pitch": 0.015708,
+      "roll": -0.06142,
+      "image": "data\\files\\file3617.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.132645,
+      "pitch": 0.013963,
+      "roll": -0.347117,
+      "image": "data\\files\\file0996.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.066955,
+      "pitch": 0.120428,
+      "roll": 0.029694,
+      "image": "data\\files\\file2573.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.164061,
+      "pitch": 0.057596,
+      "roll": 0.23597,
+      "image": "data\\files\\file2143.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.089257,
+      "pitch": -0.034907,
+      "roll": 0.165149,
+      "image": "data\\files\\file1954.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.301873,
+      "pitch": -0.010472,
+      "roll": -0.083637,
+      "image": "data\\files\\file1048.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.133331,
+      "pitch": -0.108668,
+      "roll": -0.139582,
+      "image": "data\\files\\file3966.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.034907,
+      "pitch": 0.033161,
+      "roll": 0.023372,
+      "image": "data\\files\\file2288.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.106661,
+      "pitch": -0.073187,
+      "roll": 0.036304,
+      "image": "data\\files\\file1553.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.118682,
+      "pitch": 0.031149,
+      "roll": 0.084668,
+      "image": "data\\files\\file1940.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.054105,
+      "pitch": 0.1309,
+      "roll": 0.045131,
+      "image": "data\\files\\file3082.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.303421,
+      "pitch": 0.027925,
+      "roll": -0.060532,
+      "image": "data\\files\\file0802.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.69958,
+      "pitch": 0.076795,
+      "roll": 0.113962,
+      "image": "data\\files\\file3908.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.07527,
+      "pitch": 0.089012,
+      "roll": -0.331829,
+      "image": "data\\files\\file2422.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.116937,
+      "pitch": 0.109956,
+      "roll": -0.172641,
+      "image": "data\\files\\file3215.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.133615,
+      "pitch": 0.040486,
+      "roll": 0.044219,
+      "image": "data\\files\\file3618.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.017346,
+      "pitch": 0.094248,
+      "roll": 0.017611,
+      "image": "data\\files\\file2691.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.097681,
+      "pitch": 0.16057,
+      "roll": -0.014457,
+      "image": "data\\files\\file0618.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.16057,
+      "pitch": -0.059341,
+      "roll": -0.058948,
+      "image": "data\\files\\file2535.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.249582,
+      "pitch": -0.083776,
+      "roll": -0.06422,
+      "image": "data\\files\\file3549.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.031416,
+      "pitch": 0.064577,
+      "roll": 0.306419,
+      "image": "data\\files\\file1901.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.127661,
+      "pitch": 0.016205,
+      "roll": 0.1041,
+      "image": "data\\files\\file0588.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.181514,
+      "pitch": -0.018403,
+      "roll": 0.038443,
+      "image": "data\\files\\file3159.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.335204,
+      "pitch": 0.345575,
+      "roll": 0.200819,
+      "image": "data\\files\\file0640.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.246092,
+      "pitch": -0.075049,
+      "roll": 0.057081,
+      "image": "data\\files\\file2910.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.022689,
+      "pitch": 0.005236,
+      "roll": -0.127308,
+      "image": "data\\files\\file2030.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.21293,
+      "pitch": 0.0,
+      "roll": -0.231865,
+      "image": "data\\files\\file2081.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.087164,
+      "pitch": 0.021282,
+      "roll": 0.261763,
+      "image": "data\\files\\file1542.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.156952,
+      "pitch": 0.113446,
+      "roll": -0.004348,
+      "image": "data\\files\\file0664.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.180231,
+      "pitch": 0.036652,
+      "roll": -0.098439,
+      "image": "data\\files\\file0321.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.034372,
+      "pitch": 0.019199,
+      "roll": -0.034155,
+      "image": "data\\files\\file0468.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.123763,
+      "pitch": 0.17375,
+      "roll": -0.055017,
+      "image": "data\\files\\file3590.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.150098,
+      "pitch": 0.074177,
+      "roll": -0.051946,
+      "image": "data\\files\\file3169.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.025801,
+      "pitch": -0.251327,
+      "roll": 0.018646,
+      "image": "data\\files\\file0027.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.221657,
+      "pitch": 0.104542,
+      "roll": -0.089357,
+      "image": "data\\files\\file2891.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.079706,
+      "pitch": 0.131766,
+      "roll": -0.037812,
+      "image": "data\\files\\file0473.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.010472,
+      "pitch": 0.075049,
+      "roll": 0.226152,
+      "image": "data\\files\\file3839.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.104801,
+      "pitch": -0.008727,
+      "roll": -0.181965,
+      "image": "data\\files\\file0287.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.267035,
+      "pitch": -0.162316,
+      "roll": 0.040382,
+      "image": "data\\files\\file1009.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.282118,
+      "pitch": -0.005236,
+      "roll": -0.105853,
+      "image": "data\\files\\file2650.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.030284,
+      "pitch": -0.206482,
+      "roll": -0.039699,
+      "image": "data\\files\\file1695.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.06961,
+      "pitch": 0.082031,
+      "roll": -0.179853,
+      "image": "data\\files\\file1613.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.199878,
+      "pitch": -0.20944,
+      "roll": 0.180523,
+      "image": "data\\files\\file1318.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.116937,
+      "pitch": 0.080285,
+      "roll": 0.10965,
+      "image": "data\\files\\file1811.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.417134,
+      "pitch": -0.270526,
+      "roll": 0.221608,
+      "image": "data\\files\\file2002.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.10821,
+      "pitch": 0.019199,
+      "roll": 0.018016,
+      "image": "data\\files\\file0683.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.008433,
+      "pitch": 0.193732,
+      "roll": -0.055359,
+      "image": "data\\files\\file2487.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.225147,
+      "pitch": 0.0,
+      "roll": -0.214023,
+      "image": "data\\files\\file1988.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.148555,
+      "pitch": -0.022689,
+      "roll": -0.201979,
+      "image": "data\\files\\file0663.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.510543,
+      "pitch": -0.059077,
+      "roll": -0.133271,
+      "image": "data\\files\\file0039.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.064577,
+      "pitch": 0.036652,
+      "roll": 0.347506,
+      "image": "data\\files\\file2757.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.028983,
+      "pitch": 0.253073,
+      "roll": -0.095555,
+      "image": "data\\files\\file2339.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.005236,
+      "pitch": -0.027925,
+      "roll": 0.039382,
+      "image": "data\\files\\file3205.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.287979,
+      "pitch": -0.045379,
+      "roll": -0.203721,
+      "image": "data\\files\\file1909.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.185836,
+      "pitch": 0.1309,
+      "roll": 0.107299,
+      "image": "data\\files\\file0761.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.064959,
+      "pitch": 0.047541,
+      "roll": -0.104197,
+      "image": "data\\files\\file0049.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.092503,
+      "pitch": 0.006981,
+      "roll": 0.127439,
+      "image": "data\\files\\file0442.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.069807,
+      "pitch": 0.083042,
+      "roll": 0.02396,
+      "image": "data\\files\\file3931.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.619121,
+      "pitch": 0.080285,
+      "roll": 0.20123,
+      "image": "data\\files\\file0434.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.054105,
+      "pitch": 0.089677,
+      "roll": -0.042569,
+      "image": "data\\files\\file0916.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.135688,
+      "pitch": 0.251327,
+      "roll": 0.039563,
+      "image": "data\\files\\file2678.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.064577,
+      "pitch": 0.019199,
+      "roll": 0.173246,
+      "image": "data\\files\\file1502.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.007428,
+      "pitch": 0.036652,
+      "roll": 0.037106,
+      "image": "data\\files\\file0330.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.20944,
+      "pitch": 0.06721,
+      "roll": -0.217716,
+      "image": "data\\files\\file2163.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.458993,
+      "pitch": 0.131369,
+      "roll": 0.125324,
+      "image": "data\\files\\file3602.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.007439,
+      "pitch": 0.118682,
+      "roll": -0.018246,
+      "image": "data\\files\\file3537.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.000603,
+      "pitch": 0.031416,
+      "roll": -0.005814,
+      "image": "data\\files\\file1814.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.165806,
+      "pitch": 0.008727,
+      "roll": 0.019353,
+      "image": "data\\files\\file2638.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.157867,
+      "pitch": -0.054105,
+      "roll": -0.16438,
+      "image": "data\\files\\file1552.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.113446,
+      "pitch": 0.015708,
+      "roll": 0.205395,
+      "image": "data\\files\\file2059.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.260054,
+      "pitch": 0.097738,
+      "roll": 0.066411,
+      "image": "data\\files\\file2374.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.202458,
+      "pitch": 0.040143,
+      "roll": 0.07932,
+      "image": "data\\files\\file2664.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.055231,
+      "pitch": 0.162316,
+      "roll": 0.172262,
+      "image": "data\\files\\file0486.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.079412,
+      "pitch": 0.022689,
+      "roll": -0.022616,
+      "image": "data\\files\\file1146.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.031416,
+      "pitch": 0.029671,
+      "roll": -0.198686,
+      "image": "data\\files\\file3482.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.169917,
+      "pitch": -0.033161,
+      "roll": -0.032589,
+      "image": "data\\files\\file2765.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.287979,
+      "pitch": -0.253073,
+      "roll": 0.040023,
+      "image": "data\\files\\file0490.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.02512,
+      "pitch": 0.012217,
+      "roll": -0.166609,
+      "image": "data\\files\\file0568.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.027008,
+      "pitch": 0.0,
+      "roll": 0.0609,
+      "image": "data\\files\\file1714.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.343305,
+      "pitch": -0.027925,
+      "roll": -0.290818,
+      "image": "data\\files\\file0126.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.202458,
+      "pitch": 0.010472,
+      "roll": -0.059336,
+      "image": "data\\files\\file0239.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.502655,
+      "pitch": 0.18675,
+      "roll": 0.278634,
+      "image": "data\\files\\file3706.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.459189,
+      "pitch": 0.139626,
+      "roll": 0.066568,
+      "image": "data\\files\\file0441.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.074761,
+      "pitch": -0.007505,
+      "roll": 0.049628,
+      "image": "data\\files\\file0562.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.087445,
+      "pitch": 0.296706,
+      "roll": -0.095419,
+      "image": "data\\files\\file0135.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.085531,
+      "pitch": 0.045379,
+      "roll": 0.03515,
+      "image": "data\\files\\file2958.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.05217,
+      "pitch": 0.089939,
+      "roll": 0.029403,
+      "image": "data\\files\\file0235.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.054105,
+      "pitch": 0.064577,
+      "roll": 0.029801,
+      "image": "data\\files\\file2981.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.583806,
+      "pitch": -0.089012,
+      "roll": 0.156948,
+      "image": "data\\files\\file1021.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.246091,
+      "pitch": 0.017453,
+      "roll": -0.197306,
+      "image": "data\\files\\file3221.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.219664,
+      "pitch": -0.234265,
+      "roll": -0.052294,
+      "image": "data\\files\\file0072.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.078594,
+      "pitch": 0.050614,
+      "roll": -0.019045,
+      "image": "data\\files\\file1804.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.05002,
+      "pitch": 0.136136,
+      "roll": 0.065434,
+      "image": "data\\files\\file3367.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.004173,
+      "pitch": 0.132645,
+      "roll": 0.129611,
+      "image": "data\\files\\file3400.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.208223,
+      "pitch": -0.059341,
+      "roll": -0.195443,
+      "image": "data\\files\\file0572.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.019036,
+      "pitch": -0.002464,
+      "roll": 0.060532,
+      "image": "data\\files\\file0923.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.059195,
+      "pitch": 0.008727,
+      "roll": -0.046415,
+      "image": "data\\files\\file3639.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.043659,
+      "pitch": -0.35082,
+      "roll": -0.014084,
+      "image": "data\\files\\file0436.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.095411,
+      "pitch": 0.063047,
+      "roll": -0.055209,
+      "image": "data\\files\\file2263.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.202458,
+      "pitch": -0.200411,
+      "roll": 0.112301,
+      "image": "data\\files\\file3127.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.287979,
+      "pitch": 0.050614,
+      "roll": -0.172388,
+      "image": "data\\files\\file1634.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.39619,
+      "pitch": -0.02618,
+      "roll": -0.154802,
+      "image": "data\\files\\file3047.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.331613,
+      "pitch": -0.099484,
+      "roll": -0.108661,
+      "image": "data\\files\\file1960.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.139626,
+      "pitch": 0.008727,
+      "roll": 0.0,
+      "image": "data\\files\\file1204.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.034295,
+      "pitch": 0.019199,
+      "roll": -0.293693,
+      "image": "data\\files\\file1722.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.155628,
+      "pitch": -0.058896,
+      "roll": -0.017545,
+      "image": "data\\files\\file1982.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.274017,
+      "pitch": 0.066323,
+      "roll": -0.189805,
+      "image": "data\\files\\file1523.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.086069,
+      "pitch": -0.005236,
+      "roll": 0.156758,
+      "image": "data\\files\\file2770.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.113447,
+      "pitch": 0.032288,
+      "roll": 0.158309,
+      "image": "data\\files\\file0659.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.127232,
+      "pitch": 0.034907,
+      "roll": -0.068688,
+      "image": "data\\files\\file1741.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.314159,
+      "pitch": -0.069813,
+      "roll": -0.165149,
+      "image": "data\\files\\file1116.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.221657,
+      "pitch": 0.020944,
+      "roll": 0.323763,
+      "image": "data\\files\\file3647.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.069813,
+      "pitch": -0.005236,
+      "roll": -0.041643,
+      "image": "data\\files\\file2700.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.018269,
+      "pitch": 0.073039,
+      "roll": -0.022939,
+      "image": "data\\files\\file3225.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.054105,
+      "pitch": 0.190241,
+      "roll": -0.226776,
+      "image": "data\\files\\file2571.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.624467,
+      "pitch": 0.016749,
+      "roll": -0.07112,
+      "image": "data\\files\\file3016.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.181514,
+      "pitch": -0.017453,
+      "roll": 0.006896,
+      "image": "data\\files\\file0529.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.123209,
+      "pitch": 0.02618,
+      "roll": -0.015479,
+      "image": "data\\files\\file0539.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.116064,
+      "pitch": 0.047124,
+      "roll": -0.074281,
+      "image": "data\\files\\file1536.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.225147,
+      "pitch": -0.043633,
+      "roll": 0.248652,
+      "image": "data\\files\\file1865.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.026988,
+      "pitch": -0.155334,
+      "roll": -0.149698,
+      "image": "data\\files\\file1099.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.095993,
+      "pitch": 0.39386,
+      "roll": -0.054485,
+      "image": "data\\files\\file3881.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.155379,
+      "pitch": 0.1309,
+      "roll": 0.129239,
+      "image": "data\\files\\file2883.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.127513,
+      "pitch": -0.05585,
+      "roll": -0.316431,
+      "image": "data\\files\\file1475.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.075049,
+      "pitch": 0.140499,
+      "roll": -0.088863,
+      "image": "data\\files\\file1148.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.267035,
+      "pitch": 0.005236,
+      "roll": -0.118671,
+      "image": "data\\files\\file0914.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.715585,
+      "pitch": 0.125869,
+      "roll": -0.245966,
+      "image": "data\\files\\file3199.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.075897,
+      "pitch": -0.065218,
+      "roll": 0.083141,
+      "image": "data\\files\\file2283.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.088466,
+      "pitch": 0.082031,
+      "roll": -0.094489,
+      "image": "data\\files\\file2788.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.282743,
+      "pitch": 0.174533,
+      "roll": 0.021736,
+      "image": "data\\files\\file2456.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.116937,
+      "pitch": 0.106795,
+      "roll": -0.126741,
+      "image": "data\\files\\file2177.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.312414,
+      "pitch": -0.041888,
+      "roll": -0.274735,
+      "image": "data\\files\\file2913.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.021055,
+      "pitch": 0.068068,
+      "roll": 0.0,
+      "image": "data\\files\\file3409.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.054017,
+      "pitch": 0.012217,
+      "roll": 0.113183,
+      "image": "data\\files\\file0936.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.139626,
+      "pitch": 0.095993,
+      "roll": -0.078597,
+      "image": "data\\files\\file0514.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.013963,
+      "pitch": 0.066323,
+      "roll": 0.064874,
+      "image": "data\\files\\file1622.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.3735,
+      "pitch": 0.020944,
+      "roll": 0.139925,
+      "image": "data\\files\\file0021.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.159365,
+      "pitch": 0.116937,
+      "roll": 0.095977,
+      "image": "data\\files\\file1413.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.00121,
+      "pitch": 0.07983,
+      "roll": 0.005208,
+      "image": "data\\files\\file3523.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.145084,
+      "pitch": -0.076795,
+      "roll": -0.139609,
+      "image": "data\\files\\file1635.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.375972,
+      "pitch": 0.105592,
+      "roll": 0.00823,
+      "image": "data\\files\\file2593.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.255381,
+      "pitch": 0.180449,
+      "roll": 0.253805,
+      "image": "data\\files\\file1868.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.156344,
+      "pitch": -0.027925,
+      "roll": 0.239676,
+      "image": "data\\files\\file2960.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.015372,
+      "pitch": 0.076055,
+      "roll": 0.057813,
+      "image": "data\\files\\file1816.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.064577,
+      "pitch": 0.075049,
+      "roll": 0.017855,
+      "image": "data\\files\\file2881.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.122461,
+      "pitch": 0.109956,
+      "roll": 0.067948,
+      "image": "data\\files\\file3495.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.570723,
+      "pitch": 0.006981,
+      "roll": -0.074705,
+      "image": "data\\files\\file3662.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.405172,
+      "pitch": 0.203067,
+      "roll": 0.103941,
+      "image": "data\\files\\file2704.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.257897,
+      "pitch": -0.075049,
+      "roll": -0.212101,
+      "image": "data\\files\\file0059.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.296706,
+      "pitch": 0.274017,
+      "roll": 0.04705,
+      "image": "data\\files\\file3253.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.075049,
+      "pitch": 0.383972,
+      "roll": 0.017611,
+      "image": "data\\files\\file0980.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.202458,
+      "pitch": 0.486947,
+      "roll": 0.029597,
+      "image": "data\\files\\file2550.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.329201,
+      "pitch": -0.116937,
+      "roll": -0.025718,
+      "image": "data\\files\\file2097.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.118682,
+      "pitch": 0.082031,
+      "roll": 0.091501,
+      "image": "data\\files\\file0108.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.126405,
+      "pitch": 0.127717,
+      "roll": 0.127216,
+      "image": "data\\files\\file1393.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.156965,
+      "pitch": 0.31765,
+      "roll": -0.11818,
+      "image": "data\\files\\file2689.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.409687,
+      "pitch": -0.228354,
+      "roll": -0.053657,
+      "image": "data\\files\\file2216.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.067444,
+      "pitch": 0.507891,
+      "roll": 0.005882,
+      "image": "data\\files\\file3231.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.204024,
+      "pitch": 0.0,
+      "roll": -0.005465,
+      "image": "data\\files\\file0216.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.136136,
+      "pitch": 0.097738,
+      "roll": 0.035692,
+      "image": "data\\files\\file1212.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.082031,
+      "pitch": 0.095993,
+      "roll": 0.072,
+      "image": "data\\files\\file3045.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.055394,
+      "pitch": -0.172788,
+      "roll": -0.171633,
+      "image": "data\\files\\file3817.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.118123,
+      "pitch": 0.094299,
+      "roll": -0.039856,
+      "image": "data\\files\\file1070.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.412567,
+      "pitch": -0.146608,
+      "roll": -0.037279,
+      "image": "data\\files\\file1495.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.060947,
+      "pitch": 0.233874,
+      "roll": 0.0551,
+      "image": "data\\files\\file3006.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.292343,
+      "pitch": 0.034907,
+      "roll": 0.13186,
+      "image": "data\\files\\file3752.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.459022,
+      "pitch": -0.251331,
+      "roll": -0.157329,
+      "image": "data\\files\\file2340.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.050207,
+      "pitch": 0.063474,
+      "roll": 0.179674,
+      "image": "data\\files\\file1365.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.082692,
+      "pitch": 0.25656,
+      "roll": -0.252786,
+      "image": "data\\files\\file0165.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.241453,
+      "pitch": -0.155334,
+      "roll": 0.04208,
+      "image": "data\\files\\file3583.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.523599,
+      "pitch": 0.094248,
+      "roll": -0.242478,
+      "image": "data\\files\\file3460.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.002985,
+      "pitch": 0.069813,
+      "roll": -0.043577,
+      "image": "data\\files\\file1452.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.029794,
+      "pitch": 0.34383,
+      "roll": 0.077564,
+      "image": "data\\files\\file3918.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.020773,
+      "pitch": -0.21293,
+      "roll": -0.088072,
+      "image": "data\\files\\file3485.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.0,
+      "pitch": 0.085521,
+      "roll": -0.07155,
+      "image": "data\\files\\file3849.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.020277,
+      "pitch": -0.090757,
+      "roll": -0.01724,
+      "image": "data\\files\\file3418.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.080285,
+      "pitch": 0.287979,
+      "roll": 0.258311,
+      "image": "data\\files\\file2455.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.108662,
+      "pitch": 0.041205,
+      "roll": -0.124355,
+      "image": "data\\files\\file2789.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.075049,
+      "pitch": 0.062832,
+      "roll": 0.040068,
+      "image": "data\\files\\file0322.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.588176,
+      "pitch": 0.14044,
+      "roll": -0.208291,
+      "image": "data\\files\\file3819.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.05585,
+      "pitch": -0.008727,
+      "roll": 0.046789,
+      "image": "data\\files\\file1597.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.150779,
+      "pitch": -0.10749,
+      "roll": 0.054491,
+      "image": "data\\files\\file1172.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.059357,
+      "pitch": -0.012217,
+      "roll": 0.039225,
+      "image": "data\\files\\file2458.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.43825,
+      "pitch": -0.146608,
+      "roll": 0.221174,
+      "image": "data\\files\\file2112.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.010472,
+      "pitch": -0.008727,
+      "roll": -0.110065,
+      "image": "data\\files\\file2919.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.056378,
+      "pitch": 0.041888,
+      "roll": -0.065659,
+      "image": "data\\files\\file0716.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.154384,
+      "pitch": 0.119921,
+      "roll": 0.024092,
+      "image": "data\\files\\file2736.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.246091,
+      "pitch": 0.095993,
+      "roll": -0.245657,
+      "image": "data\\files\\file3289.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.451779,
+      "pitch": 0.038397,
+      "roll": -0.272694,
+      "image": "data\\files\\file3875.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.134097,
+      "pitch": 0.082598,
+      "roll": -0.185156,
+      "image": "data\\files\\file2522.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.143397,
+      "pitch": 0.297587,
+      "roll": -0.068386,
+      "image": "data\\files\\file1573.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.024788,
+      "pitch": 0.050614,
+      "roll": -0.006622,
+      "image": "data\\files\\file3372.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.139626,
+      "pitch": 0.074221,
+      "roll": 0.099669,
+      "image": "data\\files\\file0051.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.075049,
+      "pitch": 0.068068,
+      "roll": 0.128784,
+      "image": "data\\files\\file2215.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.050353,
+      "pitch": 0.118682,
+      "roll": -0.279607,
+      "image": "data\\files\\file3480.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.151844,
+      "pitch": -0.027925,
+      "roll": 0.184811,
+      "image": "data\\files\\file0534.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.275824,
+      "pitch": -0.047316,
+      "roll": -0.069886,
+      "image": "data\\files\\file3410.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.092503,
+      "pitch": 0.024435,
+      "roll": 0.084948,
+      "image": "data\\files\\file1671.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.015595,
+      "pitch": -0.066323,
+      "roll": -0.107279,
+      "image": "data\\files\\file2483.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.188711,
+      "pitch": 0.059341,
+      "roll": 0.092388,
+      "image": "data\\files\\file2766.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.450295,
+      "pitch": 0.45204,
+      "roll": 0.16761,
+      "image": "data\\files\\file3453.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.095993,
+      "pitch": -0.038397,
+      "roll": 0.024217,
+      "image": "data\\files\\file1528.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.027925,
+      "pitch": 0.029671,
+      "roll": -0.011547,
+      "image": "data\\files\\file3488.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.234745,
+      "pitch": 0.016374,
+      "roll": -0.283448,
+      "image": "data\\files\\file1290.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.351717,
+      "pitch": -0.006981,
+      "roll": -0.059699,
+      "image": "data\\files\\file2133.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.008727,
+      "pitch": 0.066323,
+      "roll": 0.065042,
+      "image": "data\\files\\file1238.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.088234,
+      "pitch": 0.041888,
+      "roll": 0.027337,
+      "image": "data\\files\\file1499.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.459894,
+      "pitch": -0.325504,
+      "roll": -0.160766,
+      "image": "data\\files\\file0454.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.049131,
+      "pitch": 0.289725,
+      "roll": -0.083141,
+      "image": "data\\files\\file2276.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.000327,
+      "pitch": -0.097738,
+      "roll": -0.153239,
+      "image": "data\\files\\file2621.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.031416,
+      "pitch": 0.137881,
+      "roll": 0.162277,
+      "image": "data\\files\\file3658.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.010936,
+      "pitch": -0.019199,
+      "roll": -0.075225,
+      "image": "data\\files\\file3727.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.031416,
+      "pitch": -0.029671,
+      "roll": -0.186531,
+      "image": "data\\files\\file2545.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.012779,
+      "pitch": 0.064796,
+      "roll": 0.040551,
+      "image": "data\\files\\file1159.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.06046,
+      "pitch": 0.048869,
+      "roll": 0.088169,
+      "image": "data\\files\\file1026.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.39619,
+      "pitch": 0.013963,
+      "roll": 0.220887,
+      "image": "data\\files\\file3002.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.517647,
+      "pitch": 0.000873,
+      "roll": 0.272852,
+      "image": "data\\files\\file3803.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.467216,
+      "pitch": -0.155829,
+      "roll": 0.063551,
+      "image": "data\\files\\file3799.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.267035,
+      "pitch": -0.05585,
+      "roll": 0.126552,
+      "image": "data\\files\\file1089.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.237365,
+      "pitch": 0.036652,
+      "roll": -0.072736,
+      "image": "data\\files\\file0095.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.656244,
+      "pitch": -0.087266,
+      "roll": -0.089603,
+      "image": "data\\files\\file2719.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.117809,
+      "pitch": -0.027768,
+      "roll": -0.02753,
+      "image": "data\\files\\file0846.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.310896,
+      "pitch": 0.058149,
+      "roll": 0.135224,
+      "image": "data\\files\\file1113.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.186661,
+      "pitch": -0.087266,
+      "roll": -0.085505,
+      "image": "data\\files\\file3970.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.212325,
+      "pitch": -0.019199,
+      "roll": 0.038236,
+      "image": "data\\files\\file0634.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.294961,
+      "pitch": 0.11674,
+      "roll": 0.290216,
+      "image": "data\\files\\file2940.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.034907,
+      "pitch": 0.036652,
+      "roll": -0.30718,
+      "image": "data\\files\\file0122.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.35343,
+      "pitch": 0.011142,
+      "roll": -0.32741,
+      "image": "data\\files\\file2511.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.139626,
+      "pitch": 0.040143,
+      "roll": -0.040262,
+      "image": "data\\files\\file2447.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.085905,
+      "pitch": 0.040143,
+      "roll": -0.002865,
+      "image": "data\\files\\file3365.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.113298,
+      "pitch": -0.057365,
+      "roll": -0.240918,
+      "image": "data\\files\\file3473.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.443671,
+      "pitch": -0.052658,
+      "roll": 0.265235,
+      "image": "data\\files\\file0541.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.041556,
+      "pitch": -0.006981,
+      "roll": 0.018016,
+      "image": "data\\files\\file2640.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.139626,
+      "pitch": 0.101229,
+      "roll": -0.242859,
+      "image": "data\\files\\file1139.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.435822,
+      "pitch": -0.089012,
+      "roll": -0.062096,
+      "image": "data\\files\\file3955.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.009074,
+      "pitch": 0.020944,
+      "roll": 0.093664,
+      "image": "data\\files\\file1504.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.221657,
+      "pitch": 0.083776,
+      "roll": -0.053752,
+      "image": "data\\files\\file0234.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.141372,
+      "pitch": 0.032579,
+      "roll": 0.050895,
+      "image": "data\\files\\file0582.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.084056,
+      "pitch": 0.064811,
+      "roll": 0.083222,
+      "image": "data\\files\\file2986.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.161544,
+      "pitch": 0.120428,
+      "roll": -0.17274,
+      "image": "data\\files\\file3355.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": -0.417189,
+      "pitch": 0.029609,
+      "roll": -0.049141,
+      "image": "data\\files\\file2198.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.010472,
+      "pitch": -0.066323,
+      "roll": 0.079874,
+      "image": "data\\files\\file1354.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": 0.16057,
+      "pitch": 0.012217,
+      "roll": 0.111683,
+      "image": "data\\files\\file1574.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.374374,
+      "pitch": -0.066323,
+      "roll": -0.11563,
+      "image": "data\\files\\file0447.jpg"
+   },
+   {
+      "smile": 0,
+      "yaw": 0.010472,
+      "pitch": 0.179769,
+      "roll": 0.026379,
+      "image": "data\\files\\file2778.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.150763,
+      "pitch": -0.05236,
+      "roll": -0.067422,
+      "image": "data\\files\\file1564.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.139626,
+      "pitch": 0.319395,
+      "roll": -0.020465,
+      "image": "data\\files\\file1777.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.200713,
+      "pitch": 0.139626,
+      "roll": -0.217404,
+      "image": "data\\files\\file0586.jpg"
+   },
+   {
+      "smile": 1,
+      "yaw": -0.191173,
+      "pitch": -0.041888,
+      "roll": 0.020465,
+      "image": "data\\files\\file1822.jpg"
+   }
+]
