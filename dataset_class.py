@@ -1,10 +1,6 @@
 from typing import Tuple, Optional, Union, Dict
 from pickle import load as pickle_load
 from pathlib import Path
-import json
-from PIL import Image
-import torchvision.transforms as transforms
-
 
 from torch.utils.data import Dataset
 import numpy
@@ -16,7 +12,7 @@ from utils import get_files_from_dir_with_pathlib
 class Genki4KDataset(Dataset):
     def __init__(self,
                  data_split: str,
-                 #data_dir: Union[str, Path],
+                 data_dir: Union[str, Path],
                  load_into_memory: Optional[bool] = True) \
             -> None:
         """An example of an object of class torch.utils.data.Dataset
@@ -36,17 +32,9 @@ class Genki4KDataset(Dataset):
         :type load_into_memory: bool
         """
         super().__init__()
-        json_path = f"data/json_files/{data_split}.json"
-
-        with open(json_path, 'r') as f:
-            json_obj = json.load(f)
-
-
-        self.img_paths = [item["image"] for item in json_obj]
-        self.labels = [item["smile"] for item in json_obj]
-        # data_path = Path(data_dir, data_split)
-        # available_files = get_files_from_dir_with_pathlib(data_path)
-        self.files = []
+        data_path = Path(data_dir, data_split)
+        available_files = get_files_from_dir_with_pathlib(data_path)
+        self.files = available_files
 
         # for i in range(len(available_files)):
         #     if i%4 == 0:
@@ -57,14 +45,12 @@ class Genki4KDataset(Dataset):
         self.key_img = 'img'
         self.key_label = 'label'
         if self.load_into_memory:
-            for i, img_path in enumerate(self.img_paths):
-                file_dict = {}
-                file_dict[self.key_img] = self._load_image(img_path)
-                file_dict[self.key_label] = self.labels[i]
-                self.files.append(file_dict)
+            for i, a_file in enumerate(self.files):
+                self.files[i] = self._load_file(a_file)
 
     @staticmethod
-    def _load_image(file_path: Path):
+    def _load_file(file_path: Path) \
+            -> Dict[str, Union[int, numpy.ndarray]]:
         """Loads a file using pathlib.Path
 
         :param file_path: File path.
@@ -72,22 +58,8 @@ class Genki4KDataset(Dataset):
         :return: The file.
         :rtype: dict[str, int|numpy.ndarray]
         """
-
-        img = Image.open(file_path)
-        no_channels = len(img.getbands())
-        if no_channels != 3:
-            img = img.convert("RGB")
-        img_resized = img.resize((64,64))
-
-        transform = transforms.Compose([
-            transforms.ToTensor(),
-            transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))
-        ])
-
-        img_tensor = transform(img_resized)
-        
-        return img_tensor
-
+        with file_path.open('rb') as f:
+            return pickle_load(f)
 
     def __len__(self) \
             -> int:
@@ -96,11 +68,11 @@ class Genki4KDataset(Dataset):
         :return: Number of pairs in the dataset
         :rtype: int
         """
-        return len(self.img_paths)
+        return len(self.files)
 
     def __getitem__(self,
                     item: int) \
-            -> Tuple[torch.Tensor, int]:
+            -> Tuple[numpy.ndarray, int]:
         """Returns an item from the dataset.
         
         :param item: Index of the pair.
@@ -109,10 +81,8 @@ class Genki4KDataset(Dataset):
         :rtype: (numpy.ndarray, int)
         """
         if self.load_into_memory:
-            the_item: Dict[str, Union[int, torch.Tensor]] = self.files[item]
+            the_item: Dict[str, Union[int, numpy.ndarray]] = self.files[item]
         else:
-            the_item = {}
-            the_item[self.key_img] = self._load_image(self.img_paths[item])
-            the_item[self.key_label] = self.labels[item]
+            the_item = self._load_file(self.files[item])
 
         return the_item[self.key_img], the_item[self.key_label]

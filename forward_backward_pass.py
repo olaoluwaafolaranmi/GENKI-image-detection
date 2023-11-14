@@ -7,7 +7,7 @@ from torch.nn.utils import clip_grad_value_
 from sklearn.metrics import accuracy_score
 
 
-def forward_backward_pass(lenet_model: Module, 
+def forward_backward_pass(genki_model: Module, 
                         optim: Optimizer, 
                         dataloader: DataLoader, 
                         device: str, 
@@ -21,10 +21,10 @@ def forward_backward_pass(lenet_model: Module,
 
     if optim is not None:
         # Indicate that we are in training mode
-        lenet_model.train()
+        genki_model.train()
     else:
         # Indicate that we are in evaluation mode
-        lenet_model.eval()
+        genki_model.eval()
 
     for batch in dataloader:
         # Zero the gradient of the optimizer.
@@ -38,12 +38,8 @@ def forward_backward_pass(lenet_model: Module,
         images = images.float().to(device)
         y_true = y_true.to(device).float()
 
-        # print(images)
-        # print(y_true)
-        # break
-
         # Get the prediction of the model
-        y_hat = lenet_model(images).flatten()
+        y_hat = genki_model(images).flatten()
 
         # Calculate the loss of our model.
         loss = torch.nn.functional.binary_cross_entropy_with_logits(input=y_hat, target=y_true)
@@ -54,7 +50,7 @@ def forward_backward_pass(lenet_model: Module,
 
             # Gradient clipping (if applicable)
             if do_grad_clip:
-                clip_grad_value_(lenet_model.parameters(), 1)
+                clip_grad_value_(genki_model.parameters(), 1)
 
             # Do an update of the weights (i.e. a step of the optimizer)
             optim.step()
@@ -70,7 +66,7 @@ def forward_backward_pass(lenet_model: Module,
     image_predictions = torch.cat(image_predictions)
 
     # Calculate accuracy metrics of the batch
-    image_predictions = (torch.sigmoid(image_predictions) > 0.5).float()
-    accuracy = accuracy_score(y_true=image_targets.numpy(), y_pred=image_predictions.numpy())
+    image_predictions_binary = (torch.sigmoid(image_predictions) > 0.5).float()
+    accuracy = accuracy_score(y_true=image_targets.numpy(), y_pred=image_predictions_binary.numpy())
 
-    return lenet_model, np.mean(iteration_loss), accuracy
+    return genki_model, np.mean(iteration_loss), accuracy

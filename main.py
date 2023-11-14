@@ -1,11 +1,11 @@
-from train_lenet import train_lenet
-from test_lenet import test_lenet
+from train_model import train_model
+from test_model import test_model
 
 
 def main():
     # Get the dataset from the command line
-    train_lenet()
-    test_lenet()
+    train_model()
+    test_model()
 
 if __name__ == "__main__":
     main()
